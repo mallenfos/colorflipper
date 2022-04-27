@@ -162,7 +162,6 @@ nav {
   display: grid;
   align-items: center;
   box-shadow: var(--dark-shadow);
-  margin-bottom: 20px;
 }
 .nav-center {
   width: 90vw;
